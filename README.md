@@ -5,9 +5,7 @@ The project mainly focuses on efficiently classifying between a glaucomatous and
 
 Glaucoma is the second most dominant reason for irreversible blindness, resulting in damage to the optic nerve. Ophthalmologist diagnoses this disease using a retinal examination of the dilated pupil. Since the diagnosis is a manual and laborious process, an automated approach for faster diagnosis is desirable. Convolutional neural networks (CNN) can allow automating the diagnosis procedures due to its self-learning capability.  This project presents a deep learning-based glaucoma classification network (GC-NET) for classifying a retinal image as glaucomatous or non-glaucomatous.
 
-!(Normal eye.jpeg) 
-
-![**Glaucomatous eye**](Glaucoma.jpg)
+  ![**Glaucomatous eye**](Glaucoma.jpg)
 
 ## Datasets
 
