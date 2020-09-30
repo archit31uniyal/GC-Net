@@ -1,5 +1,5 @@
 # GC-NET
-The project mainly focuses on efficiently classifying between a glaucomatous and normal eye.
+The research project mainly focuses on efficiently classifying between a glaucomatous and normal eye.
 
 ## Introduction
 
